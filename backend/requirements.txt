@@ -1,0 +1,4 @@
+Flask==2.1.2               # Flask web framework
+opencv-python==4.5.3.56    # OpenCV for camera handling
+threading==0.0.1           # For handling threading operations
+flask-cors==3.0.10         # Enables Cross-Origin Resource Sharing (if needed)
